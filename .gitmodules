@@ -1,0 +1,15 @@
+[submodule "nguon/fojin"]
+	path = nguon/fojin
+	url = https://github.com/xr843/fojin.git
+[submodule "nguon/nikaya"]
+	path = nguon/nikaya
+	url = https://github.com/tuanhavinalink/nikaya.git
+[submodule "nguon/buddhism"]
+	path = nguon/buddhism
+	url = https://github.com/gwsice/buddhism.git
+[submodule "nguon/suttacentral"]
+	path = nguon/suttacentral
+	url = https://github.com/suttacentral/suttacentral.git
+[submodule "nguon/buddhist-uni.github.io"]
+	path = nguon/buddhist-uni.github.io
+	url = https://github.com/buddhist-uni/buddhist-uni.github.io.git
